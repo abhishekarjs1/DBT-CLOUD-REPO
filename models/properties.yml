@@ -1,0 +1,4 @@
+models:
+  - name: abhi
+    config:
+      materialized: table
